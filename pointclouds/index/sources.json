@@ -1,0 +1,1 @@
+{"bounds":{"min":[857097.68,8504837.45,3610.13],"max":[858712.29,8506515.38,3992.57]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"huayllapata_cloud.laz","points":1060587,"bounds":{"min":[857097.68,8504837.45,3610.13],"max":[858712.29,8506515.38,3992.57]}}]}
